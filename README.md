@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hayweezyana
 - 👀 I’m interested in Python, C, C#, C++, Java...
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on any backend projects.
+- 🌱 I’m currently learning C,Javascript,HTML,CSS,Ruby, and Python
+- 💞️ I’m looking to collaborate on any frontend projects.
 - 📫 How to reach me ayotundeadeboyeje@gmail.com
 
 <!---
